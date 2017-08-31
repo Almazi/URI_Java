@@ -45,7 +45,7 @@ public class _1045 {
             System.out.printf("TRIANGULO ACUTANGULO\n");
         }
 
-        
+
         if(a == b && b == c){
             System.out.printf("TRIANGULO EQUILATERO\n");
         }
