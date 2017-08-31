@@ -1,9 +1,9 @@
 import java.util.Scanner;
 
 /**
- * Created by almazi on 8/31/17.
+ * Created by almazi on 8/31/17, 6:51 PM.
  */
-public class Main {
+public class _1047 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int initialHour = scan.nextInt();
