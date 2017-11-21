@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">The Last Page!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">510205709377832</string>
+    <string name="fb_login_protocol_scheme">fb510205709377832</string>
+
+
+</resources>
